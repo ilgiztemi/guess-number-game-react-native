@@ -11,7 +11,7 @@ const styles = StyleSheet.create( {
     textAlign: "center",
     borderWidth: 2,
     borderColor: 'white',
-    padding: 12,
+    padding: 10,
   },
 } );
 export default Title;
